@@ -1,3 +1,7 @@
+'''
+完成简易计算器
+'''
+
 from tkinter import *
 #创建窗口
 root = Tk()
